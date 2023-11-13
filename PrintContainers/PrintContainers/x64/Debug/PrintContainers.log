@@ -1,0 +1,12 @@
+﻿  PrintContainers.cpp
+C:\Users\user\source\repos\PrintContainers\PrintContainers\PrintContainers.cpp(29,35): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\user\source\repos\PrintContainers\PrintContainers\PrintContainers.cpp(29,44): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+  PrintContainers.vcxproj -> C:\Users\user\source\repos\PrintContainers\x64\Debug\Containers.exe
